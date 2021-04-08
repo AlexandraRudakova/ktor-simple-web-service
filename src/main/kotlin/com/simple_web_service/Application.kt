@@ -1,11 +1,10 @@
 package com.simple_web_service
 
-import io.ktor.server.engine.*
-import io.ktor.server.netty.*
-import com.simple_web_service.plugins.*
+import com.simple_web_service.routes.*
+import io.ktor.application.*
 
-fun main() {
-    embeddedServer(Netty, port = 8080, host = "0.0.0.0") {
-        configureRouting()
-    }.start(wait = true)
+fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
+
+fun Application.module() {
+    registerCustomerRoutes()
 }
