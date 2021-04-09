@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "nkWSQ0RYiMC",
+      "username": "Alexandra.Barabanova",
+      "name": {
+        "firstName": "Alexandra",
+        "lastName": "Rudakova"
+      },
+      "smallAvatar": null,
+      "avatar": null
+    },
+    {
+      "id": "4SWHWX4UEvLM",
+      "username": "Danil.Moiseev",
+      "name": {
+        "firstName": "Danil",
+        "lastName": "Moiseev"
+      },
+      "smallAvatar": "3nj24D3v1zvg",
+      "avatar": "2JJ9i2BYLTl"
+    },
+    {
+      "id": "3Ck4Nn30ZDLk",
+      "username": "Irina.Shasheva",
+      "name": {
+        "firstName": "Irina",
+        "lastName": "Shasheva"
+      },
+      "smallAvatar": "2VV3vI3oLE86",
+      "avatar": "1uZK0d2KVodK"
+    },
+    {
+      "id": "oaJzc0ljLbk",
+      "username": "Denis.Chernov",
+      "name": {
+        "firstName": "Denis",
+        "lastName": "Chernov"
+      },
+      "smallAvatar": "dpfHK1VXqIt",
+      "avatar": "2stRcJ3jMlSo"
+    },
+    {
+      "id": "2pVXVn2egDFw",
+      "username": "Luiza.Salavatullina",
+      "name": {
+        "firstName": "Luiza",
+        "lastName": "Salavatullina"
+      },
+      "smallAvatar": "40klP942PlaD",
+      "avatar": "a98i71yJHqC"
+    },
+    {
+      "id": "UU3MO0Jxxqa",
+      "username": "Julia.Shilova",
+      "name": {
+        "firstName": "Julia",
+        "lastName": "Shilova"
+      },
+      "smallAvatar": "eCQax1ulgIu",
+      "avatar": "3RQGR23KZd0k"
+    },
+    {
+      "id": "3mWziD3f8Ka8",
+      "username": "Olga.Narochnaya",
+      "name": {
+        "firstName": "Olga",
+        "lastName": "Narochnaya"
+      },
+      "smallAvatar": "24lGf31Il4BT",
+      "avatar": "2ZllSk3w57mC"
+    },
+    {
+      "id": "Rohwm0Y553w",
+      "username": "Ekaterina.Musienko",
+      "name": {
+        "firstName": "Ekaterina",
+        "lastName": "Musienko"
+      },
+      "smallAvatar": "124clt1u5nwE",
+      "avatar": "4CwQOv3meH2r"
+    }
+  ]
+}
